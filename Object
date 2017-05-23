@@ -1,0 +1,33 @@
+Object
+
+1. 顶层类
+
+2. registerNatives 用来初始化native调用的
+
+3. getClass 返回类
+
+4. hashCode 与 equals 一致性
+
+5. clone
+
+6. toString
+
+7. notify
+
+8. notifyAll
+
+9. wait(long timeout)
+
+10. wait(long timeout, int nanos)
+
+11. wait
+
+12. finalize
+
+
+native 方法有：registerNatives    getClass   hashCode  clone  notify  notifyAll  wait(long timeout)
+
+
+后续要查看这些方法的实现
+
+finalize的实现
